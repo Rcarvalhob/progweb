@@ -1,0 +1,2 @@
+void 0===window.vfdp&&(window.vfdp={}),window.vfdp.ui={branch:"release/rel-24.17",commit:{short:"fc90230a0f",hash:"fc90230a0f407ef3fa1d9c88481664bb508d3095"},build:"18946"},console.info("UI version:",window.vfdp.ui);
+//# sourceMappingURL=../../maps/js/shared/build-info.hash-6c83ca3a00bcf2dcd1dbb9f71450be8b.js.map

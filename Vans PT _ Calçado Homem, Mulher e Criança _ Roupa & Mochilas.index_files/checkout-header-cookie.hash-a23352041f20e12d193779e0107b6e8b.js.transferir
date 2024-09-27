@@ -1,0 +1,2 @@
+var inStoreCodeVal=getParameterByName("instorecode");function getParameterByName(e,o){o=o||window.location.href,e=e.replace(/[\[\]]/g,"\\$&");var n=new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)").exec(o);return n?n[2]?decodeURIComponent(n[2].replace(/\+/g," ")):"":null}null!==inStoreCodeVal&&1<inStoreCodeVal.length&&(document.cookie="instorecode="+inStoreCodeVal+";path=/");
+//# sourceMappingURL=../../maps/js/wcs/checkout-header-cookie.hash-5588049b84f370804d64b19d6fc524aa.js.map
